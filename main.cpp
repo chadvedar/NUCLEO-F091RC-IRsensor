@@ -2,7 +2,7 @@
 
 // main() runs in its own thread in the OS
 
-DigitalIn ir(D7);
+DigitalIn ir(D4);
 
 int main()
 {
